@@ -1,0 +1,189 @@
+.inline-block {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+}
+.ellipsis {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+}
+header {
+  background: #282828 url(../images/demo-bg.jpg) no-repeat;
+  background-size: cover;
+  padding: 20px 15px;
+  text-align: center;
+}
+header .header-content {
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+  overflow: hidden;
+}
+header h1 {
+  font: 400 52px/1 'Oswald', sans-serif;
+  text-transform: uppercase;
+  color: #f6f7f7;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.7);
+  text-align: center;
+  letter-spacing: 1px;
+  margin-bottom: 15px;
+  padding: 0;
+}
+header h2 {
+  font: 38px/1 'Open Sans Condensed', sans-serif;
+  text-transform: uppercase;
+  color: #f2f2f2;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.7);
+  text-align: center;
+  letter-spacing: 1px;
+}
+header .menu {
+  margin-top: 40px;
+}
+header .menu ul {
+  list-style: none;
+  margin-top: 20px;
+  text-align: center;
+}
+header .menu li {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 15px 20px 0;
+}
+header .menu li a {
+  display: block;
+  text-decoration: none;
+  font: 16px/1 'Lato', sans-serif;
+  color: #fff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);
+  padding: 6px 15px;
+  background-color: #0099ff;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#0099ff), to(#007acc));
+  background-image: -webkit-linear-gradient(top, #0099ff, #007acc);
+  background-image: -moz-linear-gradient(top, #0099ff, #007acc);
+  background-image: -ms-linear-gradient(top, #0099ff, #007acc);
+  background-image: -o-linear-gradient(top, #0099ff, #007acc);
+  background-image: linear-gradient(to bottom, #0099ff, #007acc);
+  -pie-background: linear-gradient(top, #0099ff, #007acc);
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.3);
+  -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.3);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.3);
+}
+header .menu li a:active,
+header .menu li a.active {
+  background-color: #007acc;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#007acc), to(#0099ff));
+  background-image: -webkit-linear-gradient(top, #007acc, #0099ff);
+  background-image: -moz-linear-gradient(top, #007acc, #0099ff);
+  background-image: -ms-linear-gradient(top, #007acc, #0099ff);
+  background-image: -o-linear-gradient(top, #007acc, #0099ff);
+  background-image: linear-gradient(to bottom, #007acc, #0099ff);
+  -pie-background: linear-gradient(top, #007acc, #0099ff);
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3), inset 0 1px 5px rgba(0, 0, 0, 0.3), inset 0 -1px 0 rgba(255, 255, 255, 0.3);
+  -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3), inset 0 1px 5px rgba(0, 0, 0, 0.3), inset 0 -1px 0 rgba(255, 255, 255, 0.3);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3), inset 0 1px 5px rgba(0, 0, 0, 0.3), inset 0 -1px 0 rgba(255, 255, 255, 0.3);
+}
+.main {
+  padding: 1px 15px 20px 15px;
+  min-height: 600px;
+  background: #c4c4c4;
+}
+.main section {
+  margin: 60px auto 0 auto;
+  width: 100%;
+  max-width: 1000px;
+}
+.main section h2 {
+  font: 42px/1 'Open Sans Condensed', sans-serif;
+  color: #242424;
+  text-align: center;
+  letter-spacing: 1px;
+}
+.main section .api-buttons {
+  text-align: center;
+  margin-top: 40px;
+}
+.main section .api-buttons li {
+  display: inline-block;
+  margin-right: 10px;
+}
+.main section .api-buttons a {
+  cursor: pointer;
+  background-color: #ededed;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#ededed), to(#cccccc));
+  background-image: -webkit-linear-gradient(top, #ededed, #cccccc);
+  background-image: -moz-linear-gradient(top, #ededed, #cccccc);
+  background-image: -ms-linear-gradient(top, #ededed, #cccccc);
+  background-image: -o-linear-gradient(top, #ededed, #cccccc);
+  background-image: linear-gradient(to bottom, #ededed, #cccccc);
+  -pie-background: linear-gradient(top, #ededed, #cccccc);
+  color: #141414;
+  padding: 5px 10px;
+  font: 14px/1 'Lato', sans-serif;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.1);
+}
+.main section .api-buttons input {
+  background: #d9d9d9;
+  border: 1px solid #999;
+  color: #242424;
+  font: 14px/27px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  margin: 0 20px 0 10px;
+  text-align: center;
+  width: 40px;
+  height: 27px;
+  padding: 0 10px;
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), inset 0 -1px 0 rgba(255, 255, 255, 0.2);
+  -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), inset 0 -1px 0 rgba(255, 255, 255, 0.2);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), inset 0 -1px 0 rgba(255, 255, 255, 0.2);
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+}
+.main section .event-log {
+  margin-top: 40px;
+  text-align: center;
+}
+.main section .event-log textarea {
+  width: 600px;
+  height: 200px;
+  background: #d9d9d9;
+  border: 1px solid #999;
+  color: #242424;
+  font-size: 14px;
+  text-align: left;
+  padding: 10px;
+  overflow: auto;
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), inset 0 -1px 0 rgba(255, 255, 255, 0.2);
+  -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), inset 0 -1px 0 rgba(255, 255, 255, 0.2);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), inset 0 -1px 0 rgba(255, 255, 255, 0.2);
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+}

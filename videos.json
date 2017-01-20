@@ -1,0 +1,252 @@
+[
+     {
+     "title": "Evaluación y ponderación",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/evaluacion y ponderacion.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Evaluación y ponderación</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Formato Docentes - Información Docentes",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/formato docentes info docentes.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>ormato Docentes - Información Docentes</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Formato Docentes - Movilidad",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/formato docentes movilidad.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Formato Docentes - Movilidad</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Formato Docentes - Reconocimientos",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/formato docentes reconocimientos.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Formato Docentes - Reconocimientos</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Formato Documentales",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/formato documentales.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Formato Documentales</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Formato Egresados - Movilidad",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/formato egresados movilidad.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Formato Egresados - Movilidad</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Formato Estudiantes - Desempeño Académico",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/formato estudiantes desempeño academico.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Formato Estudiantes - Desempeño Académico</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Formato Estudiantes - Formación Investigación",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/formato estudiantes formacion  investigacion.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Formato Estudiantes - Formación Investigación</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Formato Estudiantes - Movilidad Entrante",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/formato estudiantes movilidad entrante.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Formato Estudiantes - Movilidad Entrante</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Formato Estudiantes - Movilidad Saliente",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/formato estudiantes movilidad saliente.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Formato Estudiantes - Movilidad Saliente</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Formato Estudiantes - Premios Trabajos",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/formato estudiantes premios trabajos.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Formato Estudiantes - Premios Trabajos</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Formato Integral Espacios",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/formato integral espacios.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Formato Integral Espacios</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Formato Programa - Grupos de Investigación",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/formato programa grupos de investigacion.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Formato Programa - Grupos de Investigación</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Formato Programa - Información General",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/formato programa info general.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Formato Programa - Información General</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Formato Programa - Redes",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/formato programa redes.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Formato Programa - Redes</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Formato Programa - Visitantes",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/formato programa visitantes.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Formato Programa - Visitantes</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Formato Programa - Integral",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/formatos programa integral.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Formato Programa - Integral</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Introducción Autoevaluación",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/intro auto.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Introducción Autoevaluación</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Introducción Formatos",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/intro formatos.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Introducción Formatos</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Introducción Módulos",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/intro modulos.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Introducción Módulos</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Introducción Planes de Mejoramiento",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/intro planes de mejoramiento.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Introducción Planes de Mejoramiento</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Módulo Indicadores",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/modulo indicadores.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Módulo Indicadores</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Plan de Mejoramiento",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/plan de mejoramiento.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Plan de Mejoramiento</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Priorizacion IGO",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/priorizacion IGO.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Priorizacion IGO</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     },
+
+     {
+     "title": "Seguimiento",
+     "type": "video",
+     "free": true,
+     "downloadName": "sample-video.mp4",
+     "mp4": "http://www.autoevaluacion.unal.edu.co/pregrado/videotutoriales/seguimiento.mp4",
+     "poster": "media/video/birds.jpg",
+     "postroll": "<h3>Seguimiento</h3><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt amet molestias vero nobis sequi accusantium accusamus ducimus nam quam qui?</p>"
+     }
+
+]
